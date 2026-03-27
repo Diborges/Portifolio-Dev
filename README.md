@@ -20,9 +20,7 @@ HTML5
 
 👉 Deploy via GitHub Pages
 
-📚 Aprendizados
-
-Durante a construção, pratiquei:
+📚 Aprendizados, Durante a construção pratiquei:
 
 ✔️ Interpretação e replicação de layouts do Figma
 
