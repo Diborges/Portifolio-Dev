@@ -1,6 +1,8 @@
 Desafio Portfólio Dev
 
-🔗  https://diborges.github.io/Portifolio-Dev/
+Clique no link abaixo para visualizar o projeto
+
+👉 🔗  https://diborges.github.io/Portifolio-Dev/
 
 🎯 Objetivo do projeto
 Este projeto foi desenvolvido como exercício de prática, com o objetivo de replicar um layout do Figma e aprimorar habilidades em HTML, CSS.
