@@ -1,0 +1,27 @@
+#services {
+    padding: 88px;
+    background-color: var(--color-gray-600);
+     width: 1366px;
+     height: 480px;
+     justify-items: center;
+     margin-top: 144px;
+
+    .dev {
+     padding: 20px 20px;
+    margin-top: 56px;
+    width: 280px;
+    height: 155px;
+    display: grid;
+    background-color: var(--gray-color-500);
+    border: 1px solid #17161D;
+    
+    }
+    
+     p {
+        font: var(--text-sm);
+        margin-top: 8px;
+        text-align: left;
+        width: 240px;
+        height: 47px;
+    }
+}
