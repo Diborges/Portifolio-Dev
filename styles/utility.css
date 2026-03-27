@@ -1,0 +1,44 @@
+.red-color {
+  color: var(--color-red);
+}
+
+.title-lg {
+    font: var(--text-title-lg);
+  
+}
+
+.title-md {
+    font: var(--text-title-md); 
+}
+
+.title-sm {
+    font: var(--text-title-sm);
+}
+
+.subtitle {
+    font: var(--text-subtitle);
+}
+
+.text-md {
+    font: var(--text-md);
+}
+
+.text-sm {
+    font: var(--text-sm);
+}
+
+.span {
+    color: var(--color-red);
+}
+
+.grid {
+    display: grid;
+}
+
+.grid-flow-col {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.gap-24 {
+    gap: 24px;
+}
